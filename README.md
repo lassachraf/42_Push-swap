@@ -54,7 +54,7 @@ The allowed operations to manipulate these stacks are:
 git clone https://github.com/lassachraf/42_Push-swap.git
 ```
 ```bash
-cd 42_Phush-swap
+cd 42_Push-swap
 ```
 * For mandatory :
 ``` bash
